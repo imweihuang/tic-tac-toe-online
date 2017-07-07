@@ -1,4 +1,5 @@
-## FINAL PROJECT - TicTacToe Online
+## TicTacToe Online
+* TictacToe Online is a multiplayer online game. You can play tic tac toe with anyone online and keep track your winning records.
 * Testing Instruction
 1. As the TicTacToe app is an online multipler game. Please install the app to two devices or simulators (iPhone 6, 6s, and 7).
 2. At the login screens of both of your devices, enter two differnt names to login. Firebase anonymous login is used here.
